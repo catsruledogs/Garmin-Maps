@@ -4,3 +4,4 @@ I got a copy of these maps from Garmin MapInstall and can use them on any older 
 These maps are of the entire United States courtesey of catsruledogs.
 Maps uploaded with MediaFire.
 These maps are maintained and uploaded roughly every 6 months.
+These maps have only been tested with the Garmin nuvi series.
