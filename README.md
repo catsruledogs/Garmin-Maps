@@ -5,3 +5,4 @@ These maps are of the entire United States courtesey of catsruledogs.
 Maps uploaded with MediaFire.
 These maps are maintained and uploaded roughly every 6 months.
 These maps have only been tested with the Garmin nuvi series.
+These maps do not work with the Garmin Drive series.
